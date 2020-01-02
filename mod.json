@@ -1,0 +1,7 @@
+name: Millionaire
+displayName: Millionaire
+author: sodii
+description: Unlocks everything in campaign and gives you one million items of each kind. Useful when you lost your game data. [red]WARNING! Enabling this mod will erase your campaign progress![]
+version: "1.0"
+minGameVersion: "101.1"
+dependencies: [ ]
